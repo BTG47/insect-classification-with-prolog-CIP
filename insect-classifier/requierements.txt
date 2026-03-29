@@ -1,0 +1,1 @@
+Versiones necesarias para ejecutar el modelo (vendrá después de hacer las pruebas)
