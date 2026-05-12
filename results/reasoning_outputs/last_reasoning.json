@@ -1,0 +1,26 @@
+{
+  "engine": "python_fallback",
+  "image_id": "mosquito_demo",
+  "cnn_species": "asian_tiger_mosquito",
+  "cnn_confidence": 0.9136906266212463,
+  "predicted_class": "mosquito",
+  "predicted_species": "asian_tiger_mosquito",
+  "valid_case": true,
+  "visual_support": true,
+  "needs_review": false,
+  "signature_scores": {
+    "mosquito": 1.0,
+    "bee": 0.25,
+    "grasshopper": 0.0,
+    "mantis": 0.0,
+    "butterfly": 0.0,
+    "lady_beetle": 0.0
+  },
+  "activated_rules": [
+    "valid_case",
+    "visual_support",
+    "signature_mosquito",
+    "final_class:mosquito",
+    "final_species:asian_tiger_mosquito"
+  ]
+}
