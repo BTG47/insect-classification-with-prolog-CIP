@@ -1,13 +1,10 @@
-# Dependencias mínimas para la demo local
-problog>=2.2.4
-
-# Dependencias usadas por notebooks/modelos visuales
-numpy
-pandas
-pillow
-opencv-python
 torch
 torchvision
 ultralytics
+opencv-python
+pillow
+numpy
+pandas
 scikit-learn
 matplotlib
+problog

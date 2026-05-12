@@ -2,6 +2,23 @@
   "image_id": "mosquito_demo",
   "image_path": "data\\demo_images\\mosquito_demo.jpg",
   "classifier_input": "yolo_insect_crop",
+  "pipeline_mode": "whole_insect_crop",
+  "pipeline_trace": [
+    "1. Imagen cargada: data\\demo_images\\mosquito_demo.jpg",
+    "2. YOLO ejecutado: 9 detecciones con umbral 0.25",
+    "3. Entrada global seleccionada para MobileNet: yolo_insect_crop",
+    "4. MobileNet cargado en dispositivo: cpu",
+    "5. MobileNet sobre crop global predijo especie: asian_tiger_mosquito (0.9137)",
+    "6. Modo global: los rasgos se leen desde el crop completo del insecto",
+    "7. JSON visual estructurado generado para el razonador simbólico"
+  ],
+  "artifacts": {
+    "input_image": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\01_input_image.jpg",
+    "yolo_detections_image": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\02_yolo_detections.jpg",
+    "mobilenet_input_crop": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\03_mobilenet_input_crop.jpg",
+    "pipeline_trace": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\04_pipeline_trace.txt",
+    "manifest": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\artifacts_manifest.json"
+  },
   "mobilenet": {
     "predicted_insect": {
       "label": "asian_tiger_mosquito",

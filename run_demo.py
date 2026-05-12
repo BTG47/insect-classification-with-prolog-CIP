@@ -21,6 +21,7 @@ def default_paths(root: Path) -> Dict[str, Path]:
         "label_maps": root / "models" / "label_maps.json",
         "vision_out": root / "results" / "vision_outputs" / "last_prediction.json",
         "reasoning_out": root / "results" / "reasoning_outputs" / "last_reasoning.json",
+        "artifacts_dir": root / "results" / "demo_artifacts",
     }
 
 
@@ -58,6 +59,9 @@ def main() -> None:
     parser.add_argument("--force-python", action="store_true", help="Usa razonador Python aunque ProbLog esté instalado.")
     parser.add_argument("--device", default=None, help="cpu, cuda, cuda:0, etc. Por defecto detecta automático.")
     parser.add_argument("--yolo-conf", type=float, default=0.25, help="Umbral de confianza para YOLO.")
+    parser.add_argument("--region-aware", action="store_true", help="Ejecuta MobileNet sobre crops de partes YOLO y agrega rasgos por región.")
+    parser.add_argument("--artifacts-dir", type=Path, default=paths["artifacts_dir"], help="Carpeta para imágenes y trazas generadas por la demo.")
+    parser.add_argument("--no-artifacts", action="store_true", help="No genera imágenes de evidencia visual.")
     args = parser.parse_args()
 
     # Modo completo: imagen -> YOLO -> crop -> MobileNet -> JSON -> ProbLog/Python.
@@ -70,6 +74,9 @@ def main() -> None:
             label_maps_path=args.label_maps,
             yolo_conf=args.yolo_conf,
             device=args.device,
+            artifacts_dir=args.artifacts_dir,
+            save_artifacts=not args.no_artifacts,
+            region_aware=args.region_aware,
         )
         source_path = save_prediction_json(data, args.vision_output)
     else:
@@ -82,7 +89,8 @@ def main() -> None:
     save_reasoning_result(result, args.reasoning_output)
     print_demo(data, result, source_path=source_path)
     print(f"Salida visual guardada/consultada en: {source_path}")
-    print(f"Salida simbólica guardada en: {args.reasoning_output}\n")
+    print(f"Salida simbólica guardada en: {args.reasoning_output}")
+    print("")
 
 
 if __name__ == "__main__":

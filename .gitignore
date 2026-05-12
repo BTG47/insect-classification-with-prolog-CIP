@@ -1,0 +1,96 @@
+# ============================================================
+# Python cache / bytecode
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ============================================================
+# Virtual environments
+# ============================================================
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# ============================================================
+# Jupyter / notebooks
+# ============================================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ============================================================
+# OS / editor files
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================================
+# Logs and temporary files
+# ============================================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# ============================================================
+# Ultralytics / training output folders
+# ============================================================
+runs/
+wandb/
+mlruns/
+
+# ============================================================
+# Demo outputs generated at runtime
+# Keep final CSV/MD/JSON metrics if they are curated, but ignore
+# transient files generated every time the demo is executed.
+# ============================================================
+results/demo_artifacts/
+results/vision_outputs/last_prediction.json
+results/reasoning_outputs/last_reasoning.json
+
+# Keep directory placeholders if you use them
+!results/demo_artifacts/.gitkeep
+!results/vision_outputs/.gitkeep
+!results/reasoning_outputs/.gitkeep
+
+# ============================================================
+# Large raw dataset archives / duplicated extraction zips
+# Models are NOT ignored because the local demo needs them.
+# If GitHub rejects model size, use Git LFS instead.
+# ============================================================
+data/data_extraction/*.zip
+*.7z
+*.rar
+
+# Optional: ignore extracted dataset folders if they are too large
+# data/data_extraction/insect_parts_dataset_combined/
+
+# ============================================================
+# Model checkpoints generated during future experiments
+# The final demo models in models/ are intentionally kept.
+# ============================================================
+checkpoints/
+*.ckpt
+
+# Do NOT ignore these final model files unless you upload them elsewhere:
+# models/best_yolo_insect_parts.pt
+# models/best_mobilenet_insect_multitask.pth
+
+# ============================================================
+# Local environment files
+# ============================================================
+.env
+.env.*

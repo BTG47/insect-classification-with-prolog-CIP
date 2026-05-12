@@ -95,3 +95,26 @@ def crop_for_classifier(image_path: str | Path, yolo_output: Dict[str, Any], pad
     if x2 <= x1 or y2 <= y1:
         return image, "full_image_invalid_crop"
     return image.crop((x1, y1, x2, y2)), "yolo_insect_crop"
+
+
+def crop_detection(image_path: str | Path, detection: Dict[str, Any], padding: int = 8) -> Tuple[Image.Image, str]:
+    """Recorta una caja individual detectada por YOLO.
+
+    Se usa para la ruta experimental region-aware: cada parte detectada puede
+    enviarse a MobileNet y solo se leen las cabezas relevantes para esa parte.
+    """
+    image = Image.open(image_path).convert("RGB")
+    box = detection.get("box")
+    if not box:
+        return image, "full_image_no_box"
+
+    w, h = image.size
+    x1, y1, x2, y2 = [int(v) for v in box]
+    x1 = max(0, x1 - padding)
+    y1 = max(0, y1 - padding)
+    x2 = min(w, x2 + padding)
+    y2 = min(h, y2 + padding)
+    if x2 <= x1 or y2 <= y1:
+        return image, "full_image_invalid_part_crop"
+    part = str(detection.get("part", "unknown"))
+    return image.crop((x1, y1, x2, y2)), f"yolo_part_crop:{part}"

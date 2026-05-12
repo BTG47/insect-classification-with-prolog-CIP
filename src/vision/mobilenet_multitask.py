@@ -80,6 +80,7 @@ def load_model(
     try:
         state = torch.load(model_path, map_location=device, weights_only=True)
     except TypeError:
+        # Compatibilidad con versiones viejas de PyTorch que no soportan weights_only.
         state = torch.load(model_path, map_location=device)
     model.load_state_dict(state)
     model.eval()

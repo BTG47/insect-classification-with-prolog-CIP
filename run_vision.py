@@ -15,8 +15,11 @@ def main() -> None:
     parser.add_argument("--idx-maps", type=Path, default=root / "models" / "idx_maps.json")
     parser.add_argument("--label-maps", type=Path, default=root / "models" / "label_maps.json")
     parser.add_argument("--output", type=Path, default=root / "results" / "vision_outputs" / "last_prediction.json")
+    parser.add_argument("--artifacts-dir", type=Path, default=root / "results" / "demo_artifacts")
+    parser.add_argument("--no-artifacts", action="store_true")
     parser.add_argument("--device", default=None)
     parser.add_argument("--yolo-conf", type=float, default=0.25)
+    parser.add_argument("--region-aware", action="store_true", help="Ejecuta MobileNet sobre crops de partes YOLO y agrega rasgos por región.")
     args = parser.parse_args()
 
     prediction = run_visual_pipeline(
@@ -27,9 +30,16 @@ def main() -> None:
         label_maps_path=args.label_maps,
         yolo_conf=args.yolo_conf,
         device=args.device,
+        artifacts_dir=args.artifacts_dir,
+        save_artifacts=not args.no_artifacts,
+        region_aware=args.region_aware,
     )
     out = save_prediction_json(prediction, args.output)
     print(f"JSON visual guardado en: {out}")
+    if prediction.get("artifacts"):
+        print("Artefactos visuales generados:")
+        for name, path in prediction["artifacts"].items():
+            print(f"- {name}: {path}")
 
 
 if __name__ == "__main__":
