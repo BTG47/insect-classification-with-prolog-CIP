@@ -1,0 +1,43 @@
+{
+  "insect_label": {
+    "asian_tiger_mosquito": 0,
+    "carolina_grasshopper": 1,
+    "european_mantid": 2,
+    "honey_bee": 3,
+    "monarch_butterfly": 4,
+    "sevenspotted_lady_beetle": 5
+  },
+  "wing_count": {
+    "one_pair": 0,
+    "two_pairs": 1
+  },
+  "forewing_type": {
+    "elytra": 0,
+    "membranous": 1,
+    "scaly": 2,
+    "tegmina": 3
+  },
+  "mouthpart_type": {
+    "chewing": 0,
+    "piercing_sucking": 1,
+    "siphoning": 2
+  },
+  "antenna_type": {
+    "clavate": 0,
+    "filiform": 1
+  },
+  "leg_specialization": {
+    "generalist": 0,
+    "grasping": 1,
+    "jumping": 2
+  },
+  "body_shape": {
+    "elongated": 0,
+    "rounded_domed": 1,
+    "slender": 2
+  },
+  "waist_shape": {
+    "narrow_waist": 0,
+    "no_waist": 1
+  }
+}

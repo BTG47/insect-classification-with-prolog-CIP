@@ -1,0 +1,20 @@
+{
+  "model": "MobileNetV3 Small multi-head",
+  "dataset_counts": {
+    "train": 231,
+    "valid": 66,
+    "test": 34
+  },
+  "best_valid_insect_accuracy": 0.9696969696969697,
+  "test_loss": 0.6137480537096659,
+  "test_accuracies": {
+    "insect_label": 0.9705882352941176,
+    "wing_count": 0.9705882352941176,
+    "forewing_type": 1.0,
+    "mouthpart_type": 0.9705882352941176,
+    "antenna_type": 1.0,
+    "leg_specialization": 0.9705882352941176,
+    "body_shape": 0.9705882352941176,
+    "waist_shape": 1.0
+  }
+}
