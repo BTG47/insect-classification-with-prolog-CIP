@@ -1,0 +1,39 @@
+{
+  "mobilenet_epochs": 15,
+  "batch_size": 16,
+  "image_size": 224,
+  "train_images": 231,
+  "valid_images": 66,
+  "test_images": 34,
+  "best_valid_insect_accuracy": 0.9696969696969697,
+  "test_loss": 0.6137480537096659,
+  "test_accuracies": {
+    "insect_label": 0.9705882352941176,
+    "wing_count": 0.9705882352941176,
+    "forewing_type": 1.0,
+    "mouthpart_type": 0.9705882352941176,
+    "antenna_type": 1.0,
+    "leg_specialization": 0.9705882352941176,
+    "body_shape": 0.9705882352941176,
+    "waist_shape": 1.0
+  },
+  "output_columns": [
+    "insect_label",
+    "wing_count",
+    "forewing_type",
+    "mouthpart_type",
+    "antenna_type",
+    "leg_specialization",
+    "body_shape",
+    "waist_shape"
+  ],
+  "trait_columns": [
+    "wing_count",
+    "forewing_type",
+    "mouthpart_type",
+    "antenna_type",
+    "leg_specialization",
+    "body_shape",
+    "waist_shape"
+  ]
+}

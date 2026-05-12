@@ -1,0 +1,335 @@
+﻿image_id,"file_path
+",common_name,order,family,species,wing_count,forewing_type,mouthpart_type,antenna_type,antenna_type_alt,leg_specialization,body_shape,waist_shape,image_quality,annotator,visibility_notes
+img_000001,Dataset/Aedes albopictus (Skuse)/img_000001.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,high,bruno,no se veía bien la boca 
+img_000002,Dataset/Coccinella septempunctata Linnaeus/img_000002.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000003,Dataset/Coccinella septempunctata Linnaeus/img_000003.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000004,Dataset/Coccinella septempunctata Linnaeus/img_000004.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000005,Dataset/Coccinella septempunctata Linnaeus/img_000005.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000006,Dataset/Coccinella septempunctata Linnaeus/img_000006.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000007,Dataset/Coccinella septempunctata Linnaeus/img_000007.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000008,Dataset/Coccinella septempunctata Linnaeus/img_000008.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000009,Dataset/Coccinella septempunctata Linnaeus/img_000009.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,low,Bruno,completo
+img_000010,Dataset/Coccinella septempunctata Linnaeus/img_000010.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000011,Dataset/Coccinella septempunctata Linnaeus/img_000011.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000012,Dataset/Coccinella septempunctata Linnaeus/img_000012.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000013,Dataset/Coccinella septempunctata Linnaeus/img_000013.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000014,Dataset/Coccinella septempunctata Linnaeus/img_000014.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000015,Dataset/Coccinella septempunctata Linnaeus/img_000015.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000016,Dataset/Coccinella septempunctata Linnaeus/img_000016.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000017,Dataset/Coccinella septempunctata Linnaeus/img_000017.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000018,Dataset/Coccinella septempunctata Linnaeus/img_000018.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000019,Dataset/Coccinella septempunctata Linnaeus/img_000019.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000020,Dataset/Coccinella septempunctata Linnaeus/img_000020.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000021,Dataset/Coccinella septempunctata Linnaeus/img_000021.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000022,Dataset/Coccinella septempunctata Linnaeus/img_000022.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000023,Dataset/Coccinella septempunctata Linnaeus/img_000023.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000024,Dataset/Coccinella septempunctata Linnaeus/img_000024.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000025,Dataset/Coccinella septempunctata Linnaeus/img_000025.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000026,Dataset/Coccinella septempunctata Linnaeus/img_000026.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000027,Dataset/Coccinella septempunctata Linnaeus/img_000027.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000028,Dataset/Coccinella septempunctata Linnaeus/img_000028.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000029,Dataset/Coccinella septempunctata Linnaeus/img_000029.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000030,Dataset/Coccinella septempunctata Linnaeus/img_000030.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000031,Dataset/Coccinella septempunctata Linnaeus/img_000031.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000032,Dataset/Coccinella septempunctata Linnaeus/img_000032.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000033,Dataset/Coccinella septempunctata Linnaeus/img_000033.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000034,Dataset/Coccinella septempunctata Linnaeus/img_000034.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000035,Dataset/Coccinella septempunctata Linnaeus/img_000035.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,low,Bruno,completo
+img_000036,Dataset/Coccinella septempunctata Linnaeus/img_000036.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000037,Dataset/Coccinella septempunctata Linnaeus/img_000037.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000038,Dataset/Coccinella septempunctata Linnaeus/img_000038.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000039,Dataset/Coccinella septempunctata Linnaeus/img_000039.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,hay varios en una sola imagen
+img_000040,Dataset/Coccinella septempunctata Linnaeus/img_000040.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000041,Dataset/Coccinella septempunctata Linnaeus/img_000041.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000042,Dataset/Coccinella septempunctata Linnaeus/img_000042.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000043,Dataset/Coccinella septempunctata Linnaeus/img_000043.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000044,Dataset/Coccinella septempunctata Linnaeus/img_000044.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000045,Dataset/Coccinella septempunctata Linnaeus/img_000045.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000046,Dataset/Coccinella septempunctata Linnaeus/img_000046.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000047,Dataset/Coccinella septempunctata Linnaeus/img_000047.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000048,Dataset/Coccinella septempunctata Linnaeus/img_000048.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000049,Dataset/Coccinella septempunctata Linnaeus/img_000049.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000050,Dataset/Coccinella septempunctata Linnaeus/img_000050.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000051,Dataset/Coccinella septempunctata Linnaeus/img_000051.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000052,Dataset/Coccinella septempunctata Linnaeus/img_000052.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000053,Dataset/Coccinella septempunctata Linnaeus/img_000053.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000054,Dataset/Coccinella septempunctata Linnaeus/img_000054.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000055,Dataset/Coccinella septempunctata Linnaeus/img_000055.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,low,Bruno,completo
+img_000056,Dataset/Coccinella septempunctata Linnaeus/img_000056.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000057,Dataset/Coccinella septempunctata Linnaeus/img_000057.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000058,Dataset/Coccinella septempunctata Linnaeus/img_000058.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,high,Bruno,completo
+img_000059,Dataset/Coccinella septempunctata Linnaeus/img_000059.jpg,sevenspotted lady beetle,Coleoptera,Coccinellidae,septempunctata,two_pairs,elytra,chewing,clavate,,generalist,rounded_domed,no_waist,medium,Bruno,completo
+img_000060,Dataset/Danaus plexippus (Linnaeus)/img_000060.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000061,Dataset/Danaus plexippus (Linnaeus)/img_000061.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000062,Dataset/Danaus plexippus (Linnaeus)/img_000062.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000063,Dataset/Danaus plexippus (Linnaeus)/img_000063.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000064,Dataset/Danaus plexippus (Linnaeus)/img_000064.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000065,Dataset/Danaus plexippus (Linnaeus)/img_000065.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000066,Dataset/Danaus plexippus (Linnaeus)/img_000066.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000067,Dataset/Danaus plexippus (Linnaeus)/img_000067.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000068,Dataset/Danaus plexippus (Linnaeus)/img_000068.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000069,Dataset/Danaus plexippus (Linnaeus)/img_000069.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000070,Dataset/Danaus plexippus (Linnaeus)/img_000070.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,hay varios en una sola imagen
+img_000071,Dataset/Danaus plexippus (Linnaeus)/img_000071.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000072,Dataset/Danaus plexippus (Linnaeus)/img_000072.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000073,Dataset/Danaus plexippus (Linnaeus)/img_000073.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000074,Dataset/Danaus plexippus (Linnaeus)/img_000074.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000075,Dataset/Danaus plexippus (Linnaeus)/img_000075.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000076,Dataset/Danaus plexippus (Linnaeus)/img_000076.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000077,Dataset/Danaus plexippus (Linnaeus)/img_000077.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000078,Dataset/Danaus plexippus (Linnaeus)/img_000078.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000079,Dataset/Danaus plexippus (Linnaeus)/img_000079.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000080,Dataset/Danaus plexippus (Linnaeus)/img_000080.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000081,Dataset/Danaus plexippus (Linnaeus)/img_000081.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000082,Dataset/Danaus plexippus (Linnaeus)/img_000082.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000083,Dataset/Danaus plexippus (Linnaeus)/img_000083.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000084,Dataset/Danaus plexippus (Linnaeus)/img_000084.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000085,Dataset/Danaus plexippus (Linnaeus)/img_000085.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000086,Dataset/Danaus plexippus (Linnaeus)/img_000086.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000087,Dataset/Danaus plexippus (Linnaeus)/img_000087.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000088,Dataset/Danaus plexippus (Linnaeus)/img_000088.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000089,Dataset/Danaus plexippus (Linnaeus)/img_000089.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000090,Dataset/Danaus plexippus (Linnaeus)/img_000090.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000091,Dataset/Danaus plexippus (Linnaeus)/img_000091.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,esta saliendo de su criselida
+img_000092,Dataset/Danaus plexippus (Linnaeus)/img_000092.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000093,Dataset/Danaus plexippus (Linnaeus)/img_000093.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000094,Dataset/Danaus plexippus (Linnaeus)/img_000094.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000095,Dataset/Danaus plexippus (Linnaeus)/img_000095.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000096,Dataset/Danaus plexippus (Linnaeus)/img_000096.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000097,Dataset/Danaus plexippus (Linnaeus)/img_000097.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000098,Dataset/Danaus plexippus (Linnaeus)/img_000098.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000099,Dataset/Danaus plexippus (Linnaeus)/img_000099.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,medium,Bruno,completo
+img_000100,Dataset/Danaus plexippus (Linnaeus)/img_000100.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000101,Dataset/Danaus plexippus (Linnaeus)/img_000101.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000102,Dataset/Danaus plexippus (Linnaeus)/img_000102.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000103,Dataset/Danaus plexippus (Linnaeus)/img_000103.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000104,Dataset/Danaus plexippus (Linnaeus)/img_000104.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000105,Dataset/Danaus plexippus (Linnaeus)/img_000105.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000106,Dataset/Danaus plexippus (Linnaeus)/img_000106.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000107,Dataset/Danaus plexippus (Linnaeus)/img_000107.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000108,Dataset/Danaus plexippus (Linnaeus)/img_000108.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000109,Dataset/Danaus plexippus (Linnaeus)/img_000109.jpg,monarch butterfly,Lepidoptera,Danaidae,plexippus,two_pairs,scaly,siphoning,clavate,,generalist,slender,no_waist,high,Bruno,completo
+img_000110,Dataset/Apis mellifera Linnaeus/img_000110.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000111,Dataset/Apis mellifera Linnaeus/img_000111.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000112,Dataset/Apis mellifera Linnaeus/img_000112.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000113,Dataset/Apis mellifera Linnaeus/img_000113.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000114,Dataset/Apis mellifera Linnaeus/img_000114.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000115,Dataset/Apis mellifera Linnaeus/img_000115.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000116,Dataset/Apis mellifera Linnaeus/img_000116.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000117,Dataset/Apis mellifera Linnaeus/img_000117.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000118,Dataset/Apis mellifera Linnaeus/img_000118.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000119,Dataset/Apis mellifera Linnaeus/img_000119.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000120,Dataset/Apis mellifera Linnaeus/img_000120.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000121,Dataset/Apis mellifera Linnaeus/img_000121.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000122,Dataset/Apis mellifera Linnaeus/img_000122.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000123,Dataset/Apis mellifera Linnaeus/img_000123.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000124,Dataset/Apis mellifera Linnaeus/img_000124.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000125,Dataset/Apis mellifera Linnaeus/img_000125.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000126,Dataset/Apis mellifera Linnaeus/img_000126.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000127,Dataset/Apis mellifera Linnaeus/img_000127.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000128,Dataset/Apis mellifera Linnaeus/img_000128.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000129,Dataset/Apis mellifera Linnaeus/img_000129.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000130,Dataset/Apis mellifera Linnaeus/img_000130.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000131,Dataset/Apis mellifera Linnaeus/img_000131.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000132,Dataset/Apis mellifera Linnaeus/img_000132.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000133,Dataset/Apis mellifera Linnaeus/img_000133.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000134,Dataset/Apis mellifera Linnaeus/img_000134.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000135,Dataset/Apis mellifera Linnaeus/img_000135.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000136,Dataset/Apis mellifera Linnaeus/img_000136.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000137,Dataset/Apis mellifera Linnaeus/img_000137.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000138,Dataset/Apis mellifera Linnaeus/img_000138.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000139,Dataset/Apis mellifera Linnaeus/img_000139.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000140,Dataset/Apis mellifera Linnaeus/img_000140.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000141,Dataset/Apis mellifera Linnaeus/img_000141.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000142,Dataset/Apis mellifera Linnaeus/img_000142.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000143,Dataset/Apis mellifera Linnaeus/img_000143.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000144,Dataset/Apis mellifera Linnaeus/img_000144.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000145,Dataset/Apis mellifera Linnaeus/img_000145.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000146,Dataset/Apis mellifera Linnaeus/img_000146.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000147,Dataset/Apis mellifera Linnaeus/img_000147.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000148,Dataset/Apis mellifera Linnaeus/img_000148.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000149,Dataset/Apis mellifera Linnaeus/img_000149.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000150,Dataset/Apis mellifera Linnaeus/img_000150.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000151,Dataset/Apis mellifera Linnaeus/img_000151.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000152,Dataset/Apis mellifera Linnaeus/img_000152.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000153,Dataset/Apis mellifera Linnaeus/img_000153.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000154,Dataset/Apis mellifera Linnaeus/img_000154.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000155,Dataset/Apis mellifera Linnaeus/img_000155.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000156,Dataset/Apis mellifera Linnaeus/img_000156.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000157,Dataset/Apis mellifera Linnaeus/img_000157.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000158,Dataset/Apis mellifera Linnaeus/img_000158.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000159,Dataset/Apis mellifera Linnaeus/img_000159.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000160,Dataset/Apis mellifera Linnaeus/img_000160.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000161,Dataset/Apis mellifera Linnaeus/img_000161.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000162,Dataset/Apis mellifera Linnaeus/img_000162.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000163,Dataset/Apis mellifera Linnaeus/img_000163.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000164,Dataset/Apis mellifera Linnaeus/img_000164.jpg,honey bee,Hymenoptera,Apidae,mellifera,two_pairs,membranous,chewing,filiform,,generalist,elongated,narrow_waist,,Angel,
+img_000165,Dataset/Mantis religiosa Linnaeus/img_000165.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000166,Dataset/Mantis religiosa Linnaeus/img_000166.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000167,Dataset/Mantis religiosa Linnaeus/img_000167.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000168,Dataset/Mantis religiosa Linnaeus/img_000168.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000169,Dataset/Mantis religiosa Linnaeus/img_000169.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000170,Dataset/Mantis religiosa Linnaeus/img_000170.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000171,Dataset/Mantis religiosa Linnaeus/img_000171.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000172,Dataset/Mantis religiosa Linnaeus/img_000172.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000173,Dataset/Mantis religiosa Linnaeus/img_000173.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000174,Dataset/Mantis religiosa Linnaeus/img_000174.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000175,Dataset/Mantis religiosa Linnaeus/img_000175.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000176,Dataset/Mantis religiosa Linnaeus/img_000176.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000177,Dataset/Mantis religiosa Linnaeus/img_000177.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000178,Dataset/Mantis religiosa Linnaeus/img_000178.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000179,Dataset/Mantis religiosa Linnaeus/img_000179.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000180,Dataset/Mantis religiosa Linnaeus/img_000180.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000181,Dataset/Mantis religiosa Linnaeus/img_000181.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000182,Dataset/Mantis religiosa Linnaeus/img_000182.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000183,Dataset/Mantis religiosa Linnaeus/img_000183.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000184,Dataset/Mantis religiosa Linnaeus/img_000184.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000185,Dataset/Mantis religiosa Linnaeus/img_000185.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000186,Dataset/Mantis religiosa Linnaeus/img_000186.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000187,Dataset/Mantis religiosa Linnaeus/img_000187.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000188,Dataset/Mantis religiosa Linnaeus/img_000188.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000189,Dataset/Mantis religiosa Linnaeus/img_000189.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000190,Dataset/Mantis religiosa Linnaeus/img_000190.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000191,Dataset/Mantis religiosa Linnaeus/img_000191.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000192,Dataset/Mantis religiosa Linnaeus/img_000192.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000193,Dataset/Mantis religiosa Linnaeus/img_000193.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000194,Dataset/Mantis religiosa Linnaeus/img_000194.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000195,Dataset/Mantis religiosa Linnaeus/img_000195.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000196,Dataset/Mantis religiosa Linnaeus/img_000196.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000197,Dataset/Mantis religiosa Linnaeus/img_000197.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000198,Dataset/Mantis religiosa Linnaeus/img_000198.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000199,Dataset/Mantis religiosa Linnaeus/img_000199.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000200,Dataset/Mantis religiosa Linnaeus/img_000200.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000201,Dataset/Mantis religiosa Linnaeus/img_000201.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000202,Dataset/Mantis religiosa Linnaeus/img_000202.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000203,Dataset/Mantis religiosa Linnaeus/img_000203.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000204,Dataset/Mantis religiosa Linnaeus/img_000204.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000205,Dataset/Mantis religiosa Linnaeus/img_000205.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000206,Dataset/Mantis religiosa Linnaeus/img_000206.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000207,Dataset/Mantis religiosa Linnaeus/img_000207.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000208,Dataset/Mantis religiosa Linnaeus/img_000208.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000209,Dataset/Mantis religiosa Linnaeus/img_000209.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000210,Dataset/Mantis religiosa Linnaeus/img_000210.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000211,Dataset/Mantis religiosa Linnaeus/img_000211.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000212,Dataset/Mantis religiosa Linnaeus/img_000212.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000213,Dataset/Mantis religiosa Linnaeus/img_000213.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000214,Dataset/Mantis religiosa Linnaeus/img_000214.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000215,Dataset/Mantis religiosa Linnaeus/img_000215.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000216,Dataset/Mantis religiosa Linnaeus/img_000216.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000217,Dataset/Mantis religiosa Linnaeus/img_000217.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000218,Dataset/Mantis religiosa Linnaeus/img_000218.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000219,Dataset/Mantis religiosa Linnaeus/img_000219.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000220,Dataset/Mantis religiosa Linnaeus/img_000220.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000221,Dataset/Mantis religiosa Linnaeus/img_000221.jpg,European mantid,Mantodea,Mantidae,religiosa,two_pairs,tegmina,chewing,filiform,,grasping,elongated,no_waist,,Angel,
+img_000222,Dataset/Dissosteira carolina (Linnaeus)/img_000222.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000223,Dataset/Dissosteira carolina (Linnaeus)/img_000223.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000224,Dataset/Dissosteira carolina (Linnaeus)/img_000224.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000225,Dataset/Dissosteira carolina (Linnaeus)/img_000225.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000226,Dataset/Dissosteira carolina (Linnaeus)/img_000226.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000227,Dataset/Dissosteira carolina (Linnaeus)/img_000227.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000228,Dataset/Dissosteira carolina (Linnaeus)/img_000228.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000229,Dataset/Dissosteira carolina (Linnaeus)/img_000229.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000230,Dataset/Dissosteira carolina (Linnaeus)/img_000230.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000231,Dataset/Dissosteira carolina (Linnaeus)/img_000231.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000232,Dataset/Dissosteira carolina (Linnaeus)/img_000232.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000233,Dataset/Dissosteira carolina (Linnaeus)/img_000233.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000234,Dataset/Dissosteira carolina (Linnaeus)/img_000234.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000235,Dataset/Dissosteira carolina (Linnaeus)/img_000235.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000236,Dataset/Dissosteira carolina (Linnaeus)/img_000236.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000237,Dataset/Dissosteira carolina (Linnaeus)/img_000237.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000238,Dataset/Dissosteira carolina (Linnaeus)/img_000238.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000239,Dataset/Dissosteira carolina (Linnaeus)/img_000239.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000240,Dataset/Dissosteira carolina (Linnaeus)/img_000240.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000241,Dataset/Dissosteira carolina (Linnaeus)/img_000241.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000242,Dataset/Dissosteira carolina (Linnaeus)/img_000242.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000243,Dataset/Dissosteira carolina (Linnaeus)/img_000243.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000244,Dataset/Dissosteira carolina (Linnaeus)/img_000244.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000245,Dataset/Dissosteira carolina (Linnaeus)/img_000245.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000246,Dataset/Dissosteira carolina (Linnaeus)/img_000246.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000247,Dataset/Dissosteira carolina (Linnaeus)/img_000247.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000248,Dataset/Dissosteira carolina (Linnaeus)/img_000248.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000249,Dataset/Dissosteira carolina (Linnaeus)/img_000249.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000250,Dataset/Dissosteira carolina (Linnaeus)/img_000250.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000251,Dataset/Dissosteira carolina (Linnaeus)/img_000251.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000252,Dataset/Dissosteira carolina (Linnaeus)/img_000252.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000253,Dataset/Dissosteira carolina (Linnaeus)/img_000253.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000254,Dataset/Dissosteira carolina (Linnaeus)/img_000254.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000255,Dataset/Dissosteira carolina (Linnaeus)/img_000255.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000256,Dataset/Dissosteira carolina (Linnaeus)/img_000256.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000257,Dataset/Dissosteira carolina (Linnaeus)/img_000257.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000258,Dataset/Dissosteira carolina (Linnaeus)/img_000258.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000259,Dataset/Dissosteira carolina (Linnaeus)/img_000259.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000260,Dataset/Dissosteira carolina (Linnaeus)/img_000260.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000261,Dataset/Dissosteira carolina (Linnaeus)/img_000261.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000262,Dataset/Dissosteira carolina (Linnaeus)/img_000262.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000263,Dataset/Dissosteira carolina (Linnaeus)/img_000263.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000264,Dataset/Dissosteira carolina (Linnaeus)/img_000264.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000265,Dataset/Dissosteira carolina (Linnaeus)/img_000265.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000266,Dataset/Dissosteira carolina (Linnaeus)/img_000266.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000267,Dataset/Dissosteira carolina (Linnaeus)/img_000267.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000268,Dataset/Dissosteira carolina (Linnaeus)/img_000268.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000269,Dataset/Dissosteira carolina (Linnaeus)/img_000269.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000270,Dataset/Dissosteira carolina (Linnaeus)/img_000270.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000271,Dataset/Dissosteira carolina (Linnaeus)/img_000271.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000272,Dataset/Dissosteira carolina (Linnaeus)/img_000272.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000273,Dataset/Dissosteira carolina (Linnaeus)/img_000273.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000274,Dataset/Dissosteira carolina (Linnaeus)/img_000274.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000275,Dataset/Dissosteira carolina (Linnaeus)/img_000275.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000276,Dataset/Dissosteira carolina (Linnaeus)/img_000276.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000277,Dataset/Dissosteira carolina (Linnaeus)/img_000277.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000278,Dataset/Dissosteira carolina (Linnaeus)/img_000278.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000279,Dataset/Dissosteira carolina (Linnaeus)/img_000279.jpg,Carolina grasshopper,Orthoptera,Acrididae,carolina,two_pairs,tegmina,chewing,filiform,,jumping,elongated,no_waist,,Angel,
+img_000280,Dataset/Aedes albopictus (Skuse)/img_000280.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000281,Dataset/Aedes albopictus (Skuse)/img_000281.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000282,Dataset/Aedes albopictus (Skuse)/img_000282.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000283,Dataset/Aedes albopictus (Skuse)/img_000283.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000284,Dataset/Aedes albopictus (Skuse)/img_000284.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000285,Dataset/Aedes albopictus (Skuse)/img_000285.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000286,Dataset/Aedes albopictus (Skuse)/img_000286.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000287,Dataset/Aedes albopictus (Skuse)/img_000287.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000288,Dataset/Aedes albopictus (Skuse)/img_000288.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000289,Dataset/Aedes albopictus (Skuse)/img_000289.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000290,Dataset/Aedes albopictus (Skuse)/img_000290.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000291,Dataset/Aedes albopictus (Skuse)/img_000291.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000292,Dataset/Aedes albopictus (Skuse)/img_000292.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000293,Dataset/Aedes albopictus (Skuse)/img_000293.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000294,Dataset/Aedes albopictus (Skuse)/img_000294.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000295,Dataset/Aedes albopictus (Skuse)/img_000295.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000296,Dataset/Aedes albopictus (Skuse)/img_000296.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000297,Dataset/Aedes albopictus (Skuse)/img_000297.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000298,Dataset/Aedes albopictus (Skuse)/img_000298.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000299,Dataset/Aedes albopictus (Skuse)/img_000299.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000300,Dataset/Aedes albopictus (Skuse)/img_000300.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000301,Dataset/Aedes albopictus (Skuse)/img_000301.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000302,Dataset/Aedes albopictus (Skuse)/img_000302.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000303,Dataset/Aedes albopictus (Skuse)/img_000303.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000304,Dataset/Aedes albopictus (Skuse)/img_000304.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000305,Dataset/Aedes albopictus (Skuse)/img_000305.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000306,Dataset/Aedes albopictus (Skuse)/img_000306.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000307,Dataset/Aedes albopictus (Skuse)/img_000307.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000308,Dataset/Aedes albopictus (Skuse)/img_000308.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000309,Dataset/Aedes albopictus (Skuse)/img_000309.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000310,Dataset/Aedes albopictus (Skuse)/img_000310.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000311,Dataset/Aedes albopictus (Skuse)/img_000311.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000312,Dataset/Aedes albopictus (Skuse)/img_000312.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000313,Dataset/Aedes albopictus (Skuse)/img_000313.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000314,Dataset/Aedes albopictus (Skuse)/img_000314.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000315,Dataset/Aedes albopictus (Skuse)/img_000315.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000316,Dataset/Aedes albopictus (Skuse)/img_000316.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000317,Dataset/Aedes albopictus (Skuse)/img_000317.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000318,Dataset/Aedes albopictus (Skuse)/img_000318.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000319,Dataset/Aedes albopictus (Skuse)/img_000319.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000320,Dataset/Aedes albopictus (Skuse)/img_000320.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000321,Dataset/Aedes albopictus (Skuse)/img_000321.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000322,Dataset/Aedes albopictus (Skuse)/img_000322.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000323,Dataset/Aedes albopictus (Skuse)/img_000323.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000324,Dataset/Aedes albopictus (Skuse)/img_000324.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000325,Dataset/Aedes albopictus (Skuse)/img_000325.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000326,Dataset/Aedes albopictus (Skuse)/img_000326.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000327,Dataset/Aedes albopictus (Skuse)/img_000327.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000328,Dataset/Aedes albopictus (Skuse)/img_000328.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000329,Dataset/Aedes albopictus (Skuse)/img_000329.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000330,Dataset/Aedes albopictus (Skuse)/img_000330.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000331,Dataset/Aedes albopictus (Skuse)/img_000331.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000332,Dataset/Aedes albopictus (Skuse)/img_000332.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,
+img_000333,Dataset/Aedes albopictus (Skuse)/img_000333.jpg,Asian tiger mosquito,Diptera,Culicidae,albopictus,one_pair,membranous,piercing_sucking,plumose,filiform,generalist,slender,no_waist,,Angel,

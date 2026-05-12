@@ -1,0 +1,108 @@
+{
+  "image_id": "aedes_albopictus_img_000281",
+  "image_path": "/content/insect_dataset/insect_parts_dataset_combined/valid/images/aedes_albopictus_img_000281.jpg",
+  "mobilenet": {
+    "predicted_insect": {
+      "label": "asian_tiger_mosquito",
+      "confidence": 0.902
+    },
+    "predicted_traits": {
+      "wing_count": {
+        "label": "one_pair",
+        "confidence": 0.9446
+      },
+      "forewing_type": {
+        "label": "membranous",
+        "confidence": 0.946
+      },
+      "mouthpart_type": {
+        "label": "piercing_sucking",
+        "confidence": 0.8635
+      },
+      "antenna_type": {
+        "label": "filiform",
+        "confidence": 0.977
+      },
+      "leg_specialization": {
+        "label": "generalist",
+        "confidence": 0.9428
+      },
+      "body_shape": {
+        "label": "slender",
+        "confidence": 0.9613
+      },
+      "waist_shape": {
+        "label": "no_waist",
+        "confidence": 0.9558
+      }
+    }
+  },
+  "yolo": {
+    "detected_parts": [
+      {
+        "part": "insect",
+        "confidence": 0.8213,
+        "box": [
+          6,
+          17,
+          599,
+          542
+        ]
+      },
+      {
+        "part": "body",
+        "confidence": 0.6055,
+        "box": [
+          273,
+          250,
+          376,
+          464
+        ]
+      },
+      {
+        "part": "body",
+        "confidence": 0.3377,
+        "box": [
+          291,
+          291,
+          375,
+          463
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.2887,
+        "box": [
+          81,
+          220,
+          320,
+          557
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.2729,
+        "box": [
+          0,
+          222,
+          319,
+          577
+        ]
+      }
+    ],
+    "parts_summary": {
+      "insect": {
+        "count": 1,
+        "max_confidence": 0.8213
+      },
+      "body": {
+        "count": 2,
+        "max_confidence": 0.6055
+      },
+      "legs": {
+        "count": 2,
+        "max_confidence": 0.2887
+      }
+    }
+  }
+}
