@@ -1,0 +1,219 @@
+{
+  "image_id": "mosquito_demo",
+  "image_path": "data\\demo_images\\mosquito_demo.jpg",
+  "classifier_input": "yolo_insect_crop",
+  "pipeline_mode": "whole_insect_crop",
+  "pipeline_trace": [
+    "1. Imagen cargada: data\\demo_images\\mosquito_demo.jpg",
+    "2. YOLO ejecutado: 9 detecciones con umbral 0.25",
+    "3. Entrada global seleccionada para MobileNet: yolo_insect_crop",
+    "4. MobileNet cargado en dispositivo: cpu",
+    "5. MobileNet sobre crop global predijo especie: asian_tiger_mosquito (0.9137)",
+    "6. Modo global: los rasgos se leen desde el crop completo del insecto",
+    "7. JSON visual estructurado generado para el razonador simbólico"
+  ],
+  "artifacts": {
+    "input_image": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\01_input_image.jpg",
+    "yolo_detections_image": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\02_yolo_detections.jpg",
+    "mobilenet_input_crop": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\03_mobilenet_input_crop.jpg",
+    "pipeline_trace": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\04_pipeline_trace.txt",
+    "manifest": "F:\\Programacao\\Proyectos o tareas de la uni\\CIP insect classification with Prolog\\results\\demo_artifacts\\artifacts_manifest.json"
+  },
+  "mobilenet": {
+    "predicted_insect": {
+      "label": "asian_tiger_mosquito",
+      "confidence": 0.9136906266212463
+    },
+    "top_k_insects": [
+      {
+        "label": "asian_tiger_mosquito",
+        "confidence": 0.9136906266212463
+      },
+      {
+        "label": "monarch_butterfly",
+        "confidence": 0.053028739988803864
+      },
+      {
+        "label": "carolina_grasshopper",
+        "confidence": 0.014072402380406857
+      }
+    ],
+    "predicted_traits": {
+      "wing_count": {
+        "label": "one_pair",
+        "confidence": 0.9653488993644714
+      },
+      "forewing_type": {
+        "label": "membranous",
+        "confidence": 0.8591646552085876
+      },
+      "mouthpart_type": {
+        "label": "piercing_sucking",
+        "confidence": 0.9011722803115845
+      },
+      "antenna_type": {
+        "label": "filiform",
+        "confidence": 0.9240193367004395
+      },
+      "leg_specialization": {
+        "label": "generalist",
+        "confidence": 0.9812120795249939
+      },
+      "body_shape": {
+        "label": "slender",
+        "confidence": 0.9792793989181519
+      },
+      "waist_shape": {
+        "label": "no_waist",
+        "confidence": 0.9913039207458496
+      }
+    },
+    "trait_probabilities": {
+      "wing_count": {
+        "one_pair": 0.9653488993644714,
+        "two_pairs": 0.03465105965733528
+      },
+      "forewing_type": {
+        "elytra": 0.03025869093835354,
+        "membranous": 0.8591646552085876,
+        "scaly": 0.06953226774930954,
+        "tegmina": 0.04104434698820114
+      },
+      "mouthpart_type": {
+        "chewing": 0.04504774138331413,
+        "piercing_sucking": 0.9011722803115845,
+        "siphoning": 0.053780026733875275
+      },
+      "antenna_type": {
+        "clavate": 0.07598068565130234,
+        "filiform": 0.9240193367004395
+      },
+      "leg_specialization": {
+        "generalist": 0.9812120795249939,
+        "grasping": 0.009168170392513275,
+        "jumping": 0.009619712829589844
+      },
+      "body_shape": {
+        "elongated": 0.012936500832438469,
+        "rounded_domed": 0.0077841617166996,
+        "slender": 0.9792793989181519
+      },
+      "waist_shape": {
+        "narrow_waist": 0.008696112781763077,
+        "no_waist": 0.9913039207458496
+      }
+    }
+  },
+  "yolo": {
+    "detected_parts": [
+      {
+        "part": "body",
+        "confidence": 0.981927216053009,
+        "box": [
+          97,
+          76,
+          195,
+          164
+        ]
+      },
+      {
+        "part": "insect",
+        "confidence": 0.9513900876045227,
+        "box": [
+          16,
+          47,
+          257,
+          243
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.7563775777816772,
+        "box": [
+          125,
+          109,
+          243,
+          241
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.7198821306228638,
+        "box": [
+          18,
+          92,
+          115,
+          144
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.5935240983963013,
+        "box": [
+          178,
+          106,
+          245,
+          172
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.5145678520202637,
+        "box": [
+          126,
+          128,
+          161,
+          240
+        ]
+      },
+      {
+        "part": "mouthpart",
+        "confidence": 0.4032577574253082,
+        "box": [
+          191,
+          90,
+          256,
+          115
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.3818354904651642,
+        "box": [
+          126,
+          108,
+          206,
+          239
+        ]
+      },
+      {
+        "part": "legs",
+        "confidence": 0.3772003948688507,
+        "box": [
+          127,
+          113,
+          176,
+          240
+        ]
+      }
+    ],
+    "parts_summary": {
+      "body": {
+        "count": 1,
+        "max_confidence": 0.981927216053009
+      },
+      "insect": {
+        "count": 1,
+        "max_confidence": 0.9513900876045227
+      },
+      "legs": {
+        "count": 6,
+        "max_confidence": 0.7563775777816772
+      },
+      "mouthpart": {
+        "count": 1,
+        "max_confidence": 0.4032577574253082
+      }
+    }
+  }
+}
